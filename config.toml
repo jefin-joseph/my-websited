@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Jefin Joseph"
+  description = "This website showcases Jefin's portfolio of data science projects."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -33,12 +33,12 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    text = "Please email me at: jefinjoseph.uk@gmail.com"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Portfolio"
+    subtitle = "Data Projects"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
