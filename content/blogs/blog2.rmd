@@ -1,8 +1,8 @@
 ---
-title: "Magna"
-description: "Lorem Etiam Nullam"
-slug: "magna"
-image: pic09.jpg
+title: "Renewable Energy Production"
+description: "Analysis of Renewable Energy Production across the World"
+slug: "renewable-energy"
+image: renewable_energy.jpg
 keywords: ""
 categories: 
     - ""
