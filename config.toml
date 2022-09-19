@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Resume"
       subtitle = "Take a look at my resume"
       image = "resume_background.jpg"
-      url = "blogs/tempus"
+      url = "blogs/resume"
 
     [[params.tiles.showcase]]
       title = "Renewable Energy Production"
@@ -122,10 +122,10 @@ disqusShortname = ""
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Resume"
+      subtitle = "Resume of Jefin Joseph"
       image = "jefin_resume.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/resume"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
