@@ -1,7 +1,7 @@
 ---
 title: "Renewable Energy Production"
 description: "Analysis of Renewable Energy Production across the World"
-slug: "renewable-energy"
+slug: "magna"
 image: renewable_energy.jpg
 keywords: ""
 categories: 
