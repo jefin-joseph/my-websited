@@ -37,7 +37,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Portfolio"
+    title = "Portfolio Website"
     subtitle = "Data Projects"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -94,7 +94,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Me"
       subtitle = "Discover more about me"
-      image = "about_me.jpg"
+      image = "about_me_bg.jpeg"
       url = "blogs/me"
 
     [[params.tiles.showcase]]
