@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Resume"
       subtitle = "Take a look at my resume"
       image = "resume_background.jpg"
-      url = "blogs/tempus"
+      url = "blogs/"
 
     [[params.tiles.showcase]]
       title = "Magna"
