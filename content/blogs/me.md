@@ -1,0 +1,19 @@
+---
+title: "Me"
+description: ""
+slug: "About Me"
+image: about_me.jpg
+keywords: ""
+categories: 
+    - ""
+    - ""
+date: 19-09-2022
+draft: false
+---
+
+My name is Jefin Joseph. 
+And I'm a Masters in Analytics and Management student at London Business School.
+
+Before LBS, I worked for a London-based content marketing agency. My expertise lies in writing and optimizing long-form articles for Saas, fintech, and automobile clients. Prior to that, I was a software engineer at IQVIA, working on data migration testing and master data management project development.
+
+I look forward to my time here!
